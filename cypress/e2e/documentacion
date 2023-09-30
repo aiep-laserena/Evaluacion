@@ -1,0 +1,29 @@
+
+ACCESO AL SITO : se espera que al momento de ejecutar la primera prueba se proporciona el enlace que nos llevara al sitio en el cual estamos trabajando.
+
+PRUEBAS DE NAVEGACION : se espera que una vez estemos ingresados en el sitio se verifique si el titulo"Zero - Personal Banking - Loans - Credit Cards" se encuentra presente.
+
+PRUEBAS DE CONTENIDO : se espera que se encuentren presente los siguientes textos dentro del sitio.
+
+texto 1: Use Zero to view the most up-to-date listings of your deposits, withdrawals, interest payments, and a number of other useful transactions.
+
+texto 2: Use Zero to set up and monitor your personalized money map. A money map is an easy-to-use online tool that helps you manage your finances efficiently. With Money Map, you can create a budget, sort your finances into spending and savings categories, check the interest your accounts are earning, and gain new understanding of your patterns with the help of Zero’s clear charts and graphs.
+
+PRUEBA DE INTERACCION: 
+
+menús o submenus: se espera que al pasar por encima de un menu se vuelva desplegable.
+
+botones o enlaces: se espera que al presionar los botones o enlaces del sitio seamos redirigidos a un enlace
+que tenga familiaridad con el contenido seleccionado.
+
+PRUEBA DE RESPUESTA : 
+
+formulario login : como no tenemos conocimientos de las credenciales exactas para iniciar sesion se espera que al momento de logearnos con credenciales incorrectas o sin credenciales nos muestre un mensaje de error.
+
+formulario feedback : se espera que al rellenar todos los campos de este formulario se genere un envio y nos deje un mensaje que nos indique que nuestro comentario ha sido enviado con exito.
+
+en caso de que los campos esten vacios se espera que aparezca sobre los campos a rellenar un mensaje que diga "complete este campo".
+
+en caso de presionar el boton clear limpie todos los campos.
+
+INTEGRANTES: Camila Valenzuela , Angelo Robles
